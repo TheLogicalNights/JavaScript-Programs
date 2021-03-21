@@ -1,3 +1,5 @@
+// JavaScript Numbers contains whole numbers as well as fractional(floating point) Numbers.
+
 var iNo1 = 15;
 var iNo2 = 5;
 
