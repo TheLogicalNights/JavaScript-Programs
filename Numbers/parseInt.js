@@ -1,6 +1,6 @@
 // parseInt function takes string literal as input and return number.
 
-var str = "3.14";
+var str = "35";
 
 console.log("......Before parseInt......");
 console.log(str);
