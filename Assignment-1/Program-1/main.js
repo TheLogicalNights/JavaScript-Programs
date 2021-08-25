@@ -1,5 +1,6 @@
 // Problem Statement : Program to divide two numbers
 
+// Required for prompt in nodejs
 const prompt = require('prompt-sync')({sigint: true});
 
 function divide(iNo1,iNo2)
